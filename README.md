@@ -118,7 +118,3 @@ curl -X POST http://localhost:8787/mcp \
 - [Cloudflare Workers](https://workers.cloudflare.com/) - サーバーレス実行環境
 - [Vitest](https://vitest.dev/) - テストフレームワーク
 - [zod](https://zod.dev/) - スキーマバリデーション
-
-## ライセンス
-
-MIT
