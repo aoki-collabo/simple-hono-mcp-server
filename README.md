@@ -118,3 +118,11 @@ curl -X POST http://localhost:8787/mcp \
 - [Cloudflare Workers](https://workers.cloudflare.com/) - サーバーレス実行環境
 - [Vitest](https://vitest.dev/) - テストフレームワーク
 - [zod](https://zod.dev/) - スキーマバリデーション
+
+## ライセンス
+
+MIT
+
+## License Notice
+
+Claude Code関連ドキュメント（`.claude/`、`.steering/`等）は [GenerativeAgents/claude-code-book-chapter8](https://github.com/GenerativeAgents/claude-code-book-chapter8) を参考にしています（MIT License）。
