@@ -1,0 +1,22 @@
+{
+  "name": "simple-mcp-server",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@hono/mcp": "^0.1.0",
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "hono": "^4.7.10"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20250121.0",
+    "typescript": "~5.7.3",
+    "vitest": "^3.0.0",
+    "wrangler": "^4.0.0"
+  }
+}
